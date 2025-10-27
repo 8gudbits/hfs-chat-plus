@@ -1,0 +1,8 @@
+### todo:
+
+- frontend configs change
+- resizable chat container
+- new messages when not scrolled to bottom and on collapsed, persisted in localstorage
+- users that can write and read
+- `.msg-admin` message class if message is from an administrator
+
