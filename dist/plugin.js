@@ -1,12 +1,15 @@
 exports.repo = "8gudbits/hfs-chat"
 exports.version = 1.0
 exports.description = "damienzonly/hfs-chat v1.4 with UI improvements"
-exports.apiRequired = 8.87
-exports.frontend_js = ["main.js"]
-exports.frontend_css = ["style.css"]
 exports.preview = [
   "https://github.com/8gudbits/hfs-chat-plus/raw/main/preview.png",
   "https://github.com/8gudbits/hfs-chat-plus/raw/main/config.png",
+]
+exports.apiRequired = 8.87
+exports.frontend_js = "main.js"
+exports.frontend_css = "style.css"
+exports.changelog = [
+  { "version": 1.0, "message": "damienzonly/hfs-chat v1.4 with UI improvements" }
 ]
 exports.config = {
   anonWrite: {
